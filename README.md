@@ -12,6 +12,8 @@ Task -1:
 7.Identify potential security risks from open ports.
 8.Save scan results as a text or HTML file. give the decription
 
+<img width="1918" height="413" alt="image" src="https://github.com/user-attachments/assets/e9eb1660-98db-4c61-a74f-30fc315507d8" />
+
 
 🔍 Scanning
 Performed TCP SYN scan on local network using Nmap
